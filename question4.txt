@@ -1,0 +1,5 @@
+HTML Tags are building blocks of HTML Page. They tell the browser how it should display content to the user. A tag starts with a < bracket and ends with a > bracket. Most tags exist in pairs in HTML. Tags have an opening and closing part. They are similar, except the closing part has a / sign after the opening bracket.
+<>
+
+
+HTML Element includes a start tag, content, and an end tag. HTML Elements are components of the web page. Let's say we created a div block and filled it with some text. Then the text-filled div becomes the component of the HTML Page. The <div></div> tags along with the content inside it becomes a component and HTML Element.
