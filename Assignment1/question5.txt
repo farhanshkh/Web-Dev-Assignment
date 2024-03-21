@@ -1,1 +1,2 @@
-A document type declaration (DOCTYPE) is the first line of code in an HTML document, aside from comments, that tells the browser what version of HTML the document is written in.
+A document type declaration (DOCTYPE) is the first line of code in an HTML document, aside from comments, 
+that tells the browser what version of HTML the document is written in.
